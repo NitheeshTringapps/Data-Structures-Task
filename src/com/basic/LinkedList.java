@@ -26,7 +26,7 @@ public class LinkedList {
 	static Scanner sc = new Scanner(System.in);
 	static Node head;
 	
-	/**
+	/** 
 	 * inserts an element into the first position of LinkedList
 	 */
 	private static void beginsert() {
